@@ -61,7 +61,7 @@ Full table with sources: [Which OmniDoc is which](https://omnidoc.top/guides/wha
 
 ## License
 
-OmniDoc is proprietary software, not open source. It can be downloaded, installed and used free of charge; this repository holds documentation only. Online features (accounts, translation, AI, sharing and signing) are governed by the [Terms of Service](https://omnidoc.top/terms) and [Privacy Policy](https://omnidoc.top/privacy).
+OmniDoc is proprietary software today and will be open-sourced according to plan. It can be downloaded, installed and used free of charge; for now this repository holds documentation only. Online features (accounts, translation, AI, sharing and signing) are governed by the [Terms of Service](https://omnidoc.top/terms) and [Privacy Policy](https://omnidoc.top/privacy).
 
 ---
 
@@ -128,4 +128,4 @@ OmniDoc 是可以免费下载使用的办公软件，支持 Windows、macOS 和 
 
 ## 许可
 
-OmniDoc 是专有软件，不开源；可以免费下载、安装和使用。本仓库只有说明文档。在线功能（账号、翻译、AI、分享、签署）另受[服务条款](https://omnidoc.top/terms)和[隐私政策](https://omnidoc.top/privacy)约束。
+OmniDoc 目前是专有软件，会按照计划开源；现在可以免费下载、安装和使用。本仓库目前只有说明文档。在线功能（账号、翻译、AI、分享、签署）另受[服务条款](https://omnidoc.top/terms)和[隐私政策](https://omnidoc.top/privacy)约束。

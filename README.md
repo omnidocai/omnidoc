@@ -2,7 +2,7 @@
 
 OmniDoc is a free-to-use office suite for Windows, macOS and Linux. It edits documents, spreadsheets, presentations and PDFs on your own computer, and it also offers free whole-document translation and free structured extraction in the browser.
 
-[Website](https://omnidoc.top/) · [Download](https://download.omnidoc.top/) · [Developer documentation](https://docs.omnidoc.top/) · [MCP server](https://github.com/omnidocai/omnidoc-mcp) · [中文](#omnidoc-中文)
+[Website](https://omnidoc.top/) · [Download](https://download.omnidoc.top/) · [Developer documentation](https://docs.omnidoc.top/) · [MCP server](https://github.com/lamg-Chen/omnidoc-mcp) · [中文](#omnidoc-中文)
 
 ![The UniDoc editor in OmniDoc with an interactive sample document: a temperature slider drives the Planck curve, the peak marker and the numbers in the text](https://omnidoc.top/images/screenshots/en/unidoc-interactive-v2-1280.webp)
 
@@ -30,7 +30,7 @@ The current release is **OmniDoc 1.20**: build 144 for Windows 10 and 11 (x64), 
 
 ## AI assistants (MCP)
 
-The desktop app includes an MCP server with more than 40 document tools. Claude, Codex, Cursor and other MCP clients can create, read, edit and export Word, Excel, PowerPoint and PDF files on your computer, and a document that is open in OmniDoc updates in place while the assistant works. Editing and conversion run offline; cloud services such as paid translation use credits. No API key is needed. See [omnidoc-mcp](https://github.com/omnidocai/omnidoc-mcp) and the [developer documentation](https://docs.omnidoc.top/).
+The desktop app includes an MCP server with more than 40 document tools. Claude, Codex, Cursor and other MCP clients can create, read, edit and export Word, Excel, PowerPoint and PDF files on your computer, and a document that is open in OmniDoc updates in place while the assistant works. Editing and conversion run offline; cloud services such as paid translation use credits. No API key is needed. See [omnidoc-mcp](https://github.com/lamg-Chen/omnidoc-mcp) and the [developer documentation](https://docs.omnidoc.top/).
 
 ## Free document translation
 
@@ -57,7 +57,7 @@ OmniDoc is proprietary software, not open source. It can be downloaded, installe
 
 OmniDoc 是可以免费下载使用的办公软件，支持 Windows、macOS 和 Linux：在自己的电脑上编辑文档、表格、演示文稿和 PDF；浏览器里还有免费整篇文档翻译和免费结构化提取。
 
-[官网](https://omnidoc.top/) · [下载](https://download.omnidoc.top/) · [开发者文档](https://docs.omnidoc.top/) · [MCP 服务](https://github.com/omnidocai/omnidoc-mcp)
+[官网](https://omnidoc.top/) · [下载](https://download.omnidoc.top/) · [开发者文档](https://docs.omnidoc.top/) · [MCP 服务](https://github.com/lamg-Chen/omnidoc-mcp)
 
 ![UniDoc 编辑器中的互动示例文档：拖动温度滑块，普朗克曲线、峰值标记和正文里的数字一起变化](https://omnidoc.top/images/screenshots/zh/unidoc-interactive-v2-1280.webp)
 
@@ -85,7 +85,7 @@ OmniDoc 是可以免费下载使用的办公软件，支持 Windows、macOS 和 
 
 ## AI 助手（MCP）
 
-桌面版自带 MCP 服务，40 多个文档工具。Claude、Codex、Cursor 等 MCP 客户端可以在你的电脑上新建、读取、修改和导出 Word、Excel、PowerPoint 和 PDF；在 OmniDoc 里打开着的文档会跟着 AI 的修改原地更新。编辑和格式转换离线进行；付费翻译等云端服务按积分计费，不需要 API Key。见 [omnidoc-mcp](https://github.com/omnidocai/omnidoc-mcp) 和[开发者文档](https://docs.omnidoc.top/)。
+桌面版自带 MCP 服务，40 多个文档工具。Claude、Codex、Cursor 等 MCP 客户端可以在你的电脑上新建、读取、修改和导出 Word、Excel、PowerPoint 和 PDF；在 OmniDoc 里打开着的文档会跟着 AI 的修改原地更新。编辑和格式转换离线进行；付费翻译等云端服务按积分计费，不需要 API Key。见 [omnidoc-mcp](https://github.com/lamg-Chen/omnidoc-mcp) 和[开发者文档](https://docs.omnidoc.top/)。
 
 ## 免费文档翻译
 

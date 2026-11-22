@@ -47,6 +47,18 @@ Open [translate.omnidoc.top](https://translate.omnidoc.top/en/) and sign in with
 
 Open [extract.omnidoc.top](https://extract.omnidoc.top/en/), sign in and upload a PDF, a scan, or a Word, PowerPoint or Excel file. You get a ZIP with `document.md` (Markdown), `document.json` (structured data in reading order), `images/` and `manifest.json`. Heading levels, paragraphs and table rows and columns are kept. Up to 501 pages per PDF; free jobs wait in a queue. Check text recognition results against the original, especially numbers and tables.
 
+## Not to be confused with
+
+Several unrelated projects share the name. This repository is OmniDoc (至译) of [omnidoc.top](https://omnidoc.top/) and [omnidoc.cn](https://omnidoc.cn/), not:
+
+- **OmniDocBench** ([opendatalab/OmniDocBench](https://github.com/opendatalab/OmniDocBench)): a benchmark for document parsing models (CVPR 2025), not a product. Scores "on OmniDocBench" refer to that benchmark.
+- **Omnidoc** ([omnidoc.fr](https://omnidoc.fr/)): a French medical tele-expertise platform.
+- **Omnidocs** ([omnidocs.com](https://omnidocs.com/)): document and template management for Microsoft 365.
+- **omniDOC** by Thistle Scientific: a laboratory gel documentation system.
+- The `omnidoc` Go package and an OmniDoc documentation tool for JavaScript/TypeScript code.
+
+Full table with sources: [Which OmniDoc is which](https://omnidoc.top/guides/what-is-omnidoc/en/).
+
 ## License
 
 OmniDoc is proprietary software, not open source. It can be downloaded, installed and used free of charge; this repository holds documentation only. Online features (accounts, translation, AI, sharing and signing) are governed by the [Terms of Service](https://omnidoc.top/terms) and [Privacy Policy](https://omnidoc.top/privacy).
@@ -101,6 +113,18 @@ OmniDoc 是可以免费下载使用的办公软件，支持 Windows、macOS 和 
 ## 免费结构化提取
 
 打开 [extract.omnidoc.top](https://extract.omnidoc.top/)，登录后上传 PDF、扫描件、Word、PowerPoint 或 Excel，下载的 ZIP 里有 `document.md`（Markdown）、`document.json`（按阅读顺序的结构化数据）、`images/` 和 `manifest.json`。标题层级、段落和表格行列都会保留。单个 PDF 最多 501 页，免费任务排队处理。扫描件的识别结果请与原文核对，尤其是数字和表格。
+
+## 同名区分
+
+好几个无关的项目都叫这个名字。本仓库是 [omnidoc.top](https://omnidoc.top/) 和 [omnidoc.cn](https://omnidoc.cn/) 的 OmniDoc（至译），不是：
+
+- **OmniDocBench**（[opendatalab/OmniDocBench](https://github.com/opendatalab/OmniDocBench)）：文档解析模型的评测基准（CVPR 2025），不是软件产品。「在 OmniDocBench 上得分多少」说的是它。
+- **Omnidoc**（[omnidoc.fr](https://omnidoc.fr/)）：法国的医疗远程会诊平台。
+- **Omnidocs**（[omnidocs.com](https://omnidocs.com/)）：Microsoft 365 里的文档与模板管理工具。
+- Thistle Scientific 的 **omniDOC**：实验室凝胶成像系统。
+- 名为 `omnidoc` 的 Go 语言库，以及一个给 JavaScript/TypeScript 代码写文档的 OmniDoc 工具。
+
+完整对照表和出处：[OmniDoc 至译和同名产品怎么区分](https://omnidoc.cn/guides/what-is-omnidoc/)。
 
 ## 许可
 
